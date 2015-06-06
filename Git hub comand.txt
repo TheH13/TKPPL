@@ -1,7 +1,8 @@
 git status --> cek status apakah sudah di comit blm ( Merah = unstage, hijau = stage)
 git add namafile --> stage nama file
+git add . --> stage all file (unstage)
 git commit -m "Comentar" namafile  --> comit per file ( yg udah di stage)
-git commit -m "Comentar" *.* ---> commi all file yang udah di stage
+git commit -m "Comentar" . ---> commi all file yang udah di stage
 
 - git push --> Push file
 Tunggu sampai minta user dan password
@@ -22,3 +23,6 @@ git config user.name ---> cek nama
 git config user.email nim@students.mikroskil.ac.id --> set email
 git config user.email ---> cek alamat email
 
+
+
+Mohon di tambahi ya :V
