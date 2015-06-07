@@ -121,3 +121,12 @@ pre[class*="language-"] {
   width: 100px;
   height: 140px;
 }
+#first {
+  background: url("../images/teamwork.jpg");
+  background-size: 100%;
+}
+.pd {
+  position: absolute;
+  padding-top: 50px;
+  color: #b00;
+}
