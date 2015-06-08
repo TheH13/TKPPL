@@ -1,0 +1,35 @@
+Scrum Master 	: Achmad Dzaki (131113832)
+Durasi 		: 3Hari
+
+Sprint:
+- Buat Slide depan
+- Buat Slide Profil Hermanto
+- Buat Slide Profil Sutris
+- Buat Slide Profil Jay
+- Buat Slide Profil Zaki
+- Buat Slide "Mengenal Diri"
+- Buat Slide "Watak"
+- Buat Slide "Tempramen"
+- Buat Slide "Cara Mengenal Diri"
+
+Hari - 1
+  - Hermanto	: Menambahkan note perintah git
+  - Zaki	: Perbaiki error file dist html
+  - Sutris	: Membuat Slide Profil Sutris
+  - Sutris	: Merge dengan summit zaki
+  - Hermanto	: Membuat Slide Profil Hermanto
+  - Zaki	: Membuat Slide Profil Zaki dan tambah file images di dist folder
+
+Hari - 2
+  - Zaki	: Membuat Slide Depan dan tambah gambar
+  - Zaki	: Hapus file img yang error
+  - Zaki	: Commit file yang selalu berubah
+  - Zaki	: Bug fix, Buat file baru di folder src dan memasukkan file png dan jpg
+  - Sutris	: Edit Slide Profil Sutris dan tambah file jpg ke folder images
+  - Hermanto	: Edit Slide Profil Hermanto dan Membuat Slide "Mengenal Diri" dan tambah file png ke folder images
+
+Hari - 3
+  - Zaki	: Bug fix, Mengganti effect slide dari kanan-kiri menjadi atas-bawah dan edit list slide "Mengenal Diri" (Edit Styles)
+  - Sutris	: Membuat Slide "Watak" dan Slide "Temprament"
+  - Jay		: Membuat Slide Profil Jay dan tambah file jpg ke folder images
+  - Zaki	: Buat Log scrum Master dan edit file jade
