@@ -142,3 +142,7 @@ pre[class*="language-"] {
   -webkit-transform: translateY(240px) rotateX(-90deg);
   transform: translateY(240px) rotateX(-90deg);
 }
+.left {
+  text-align: left;
+  list-style: url;
+}
