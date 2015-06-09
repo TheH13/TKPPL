@@ -121,6 +121,10 @@ pre[class*="language-"] {
   width: 100px;
   height: 140px;
 }
+.img2 {
+  width: 140px;
+  height: 220px;
+}
 #first {
   background: url("../images/teamwork.jpg");
   background-size: 100%;

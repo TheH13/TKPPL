@@ -33,3 +33,25 @@ Hari - 3
   - Sutris	: Membuat Slide "Watak" dan Slide "Temprament"
   - Jay		: Membuat Slide Profil Jay dan tambah file jpg ke folder images
   - Zaki	: Buat Log scrum Master dan edit file jade
+
+Season 2
+
+Scrum Master 	: Sutris Hendrawan (131113093)
+Durasi		: Berhari-hari
+
+Sprint :
+- Buat Slide " Mindset and Opportunities about Entrepreneur"
+-
+-
+-
+-
+-
+-
+
+Hari - 1 (Hari - 4)
+- Sutris	: Buat Slide " Mindset and Opportunities about Entrepreneur",fix Profil Sutris,ganti gambar dan tambah file png di folder image.
+-
+-
+-
+-
+-
