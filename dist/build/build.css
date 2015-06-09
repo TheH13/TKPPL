@@ -150,3 +150,6 @@ pre[class*="language-"] {
   text-align: left;
   list-style: url;
 }
+.tebal {
+  font-weight: bold;
+}
