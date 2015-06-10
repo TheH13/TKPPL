@@ -182,3 +182,20 @@ td {
 .ccc {
   background-color: #add8e6;
 }
+#tp {
+  width: 80%;
+  height: 75%;
+}
+#tp h3,
+#blake {
+  color: #000;
+}
+.kp {
+  height: 30%;
+  width: 47%;
+  float: left;
+  margin: 5px;
+  border-radius: 10px;
+  height: 46%;
+  padding-top: 12%;
+}
