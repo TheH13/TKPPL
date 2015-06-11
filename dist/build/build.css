@@ -153,6 +153,9 @@ pre[class*="language-"] {
 .tebal {
   font-weight: bold;
 }
+.lel {
+  color: #b00;
+}
 table,
 th,
 td {

@@ -41,17 +41,26 @@ Durasi		: Berhari-hari
 
 Sprint :
 - Buat Slide " Mindset and Opportunities about Entrepreneur"
--
--
--
+- Buat Slide " Temperamen"
+- Buat Slide " Talent "
+- Buat Slide " Tabel DISC "
 -
 -
 -
 
 Hari - 1 (Hari - 4)
-- Sutris	: Buat Slide " Mindset and Opportunities about Entrepreneur",fix Profil Sutris,ganti gambar dan tambah file png di folder image.
--
--
+- Sutris		: Buat Slide " Mindset and Opportunities about Entrepreneur",fix Profil Sutris,ganti gambar dan tambah file png di folder image.
+- Jay		: Edit Slide 11 dan tambah slide ke 12 untuk penjelasan dari slide 11
+- Zaki		: Edit dan tambah slide
+- Zaki		: Merge
+- Hermanto	: Tambah Slide
+Hari - 2 (Hari - 5)
+- Sutris		: Menambah Slide Kepribadian Negatif
+- Jay		: Tambah Slide
+- Hermanto	: Tambah Slide Kepribadian Positif
+- Zaki		: Tambah Slide Utama Kepribadian
+Hari - 3 (Hari - 6)
+- Zaki		: Tambah Slide Sanguinis dan Melankolis
 -
 -
 -
