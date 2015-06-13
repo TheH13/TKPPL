@@ -64,7 +64,17 @@ Hari - 3 (Hari - 6)
 - Sutris		: Tambah Slide Self Accptance & Control
 - Hermanto	: Tambah Slide Cara menerima diri
 
+season 3
 Scrum Master 	: jay clarens (131113824)
 Durasi		: 3 Hari
+
+sprint:
+- Buat slide " Kepribadian"
+- Buat Slide " Pengertian Dominan,influence,steadiness,dan compliance.
+- Buat Slide " Tokoh yang memiliki kepribadian tersebut." 
+- Buat Slide " Ciri Khas Tipe Dominan,Influence,Steadines,Compliance.
+- Buat Slide " cara menghadapi tipe dominan,influence,steadines,dan compliance."
+- Buat Slide " DISC dari segi Vokal-Verbal dan Visual "
+
 Hari - 1 (Hari - 7)
 - Jay		: tambah slide intrapersonal dan naturalis
