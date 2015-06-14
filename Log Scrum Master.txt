@@ -45,7 +45,7 @@ Sprint :
 - Buat Slide " Talent "
 - Buat Slide " Tabel DISC "
 - Buat Slide " Sanguin,Melankolis,Plegmatis,Koleris"
-- Buat Slide "Self Accptance & Control"
+- Buat Slide "Self Acceptance & Control"
 - Buat Slide "Kepribadian"
 
 Hari - 1 (Hari - 4)
@@ -75,6 +75,8 @@ sprint:
 - Buat Slide " Ciri Khas Tipe Dominan,Influence,Steadines,Compliance.
 - Buat Slide " cara menghadapi tipe dominan,influence,steadines,dan compliance."
 - Buat Slide " DISC dari segi Vokal-Verbal dan Visual "
+- Buat Slide " Self Acceptance & Control "
 
 Hari - 1 (Hari - 7)
 - Jay		: tambah slide intrapersonal dan naturalis
+- Sutris		: tambah slide acceptance & control 
