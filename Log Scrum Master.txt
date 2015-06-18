@@ -86,3 +86,37 @@ Hari - 2 (hari -8)
 Hari - 3 (hari 9)
 -
 -
+
+Session 4
+
+Scrum Master 	: Hermanto (131110305)
+Durasi 		: 3 Hari
+Sprint:
+- Buat Slide "Behavior yang mempengaruhi Kesuksesan"
+- Buat Slide "Behavior Minus yang menghancurkan Kesuksesan"
+- Editing Slide (beri Link, gambar dan padatkan slide)
+
+Hari - 1
+- Sutris 	: Tambah Slide Konsep Winner's Behavior
+- jay 		: Tambah Slide Prinsip Winner's Behavior 
+- Hermanto 	: Tambah slide Behavior yang mempengaruhi K   esuksesan
+- Achmad Dzaki 	: Tambah slide Pengertian DISC (S dan C)
+
+Hari - 2
+- Hermanto 	: Padatkan Slide tentang Kepribadian (Hapus watak & Temramen dan ganti judul slide #6)
+- Sutris	: tambah slide Behavior minus yang menghacurkan kesuksesan
+- Achmad Dzaki	: Tambah slide karir pada dominance dan influence
+- Jay		: Edit Profile
+
+
+Hari - 3
+- Sutris	: Buat Slide Manajemen Diri
+- Hermanto	: Editing slide #6 
+
+
+
+Seseion 2
+Hari 1
+- Achmad Dzaki  : Beri Link pada Sub judul pada slide #6
+- Jay		: Perbaikin Bullet yg di slide #16 (beri numbering dan atur aligment slide #17-#19)
+- Sutris	: Edit Slide #24 ( mohon di Fix jgn terlalu besar tulisan Dominance, Influnce, Streadiness, Compliance. Dan mohon diberi Hyperlink pada setiap Kata)

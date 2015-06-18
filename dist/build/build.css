@@ -161,6 +161,9 @@ ul {
 .tebal {
   font-weight: bold;
 }
+span {
+  color: Red;
+}
 table,
 th,
 td {
