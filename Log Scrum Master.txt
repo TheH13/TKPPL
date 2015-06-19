@@ -107,15 +107,16 @@ Hari - 2
 - Sutris	: tambah slide Behavior minus yang menghacurkan kesuksesan
 - Achmad Dzaki	: Tambah slide karir pada dominance dan influence
 - Jay		: Edit Profile
-
+- 
 
 Hari - 3
 - Sutris	: Buat Slide Manajemen Diri
 - Hermanto	: Editing slide #6 
+- Achmad Dzaki	: Tambah 2 slide karir Steadiness dan COmpliance
+- Jay		: Hapus Slide dari Section Kepribadian karena Bentrok
 
 
-
-Seseion 2
+Session 5
 Hari 1
 - Achmad Dzaki  : Beri Link pada Sub judul pada slide #6
 - Jay		: Perbaikin Bullet yg di slide #16 (beri numbering dan atur aligment slide #17-#19)
