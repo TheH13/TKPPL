@@ -138,6 +138,13 @@ pre[class*="language-"] {
 .bgprofiljay h3 {
   color: #fff;
 }
+.bg1 {
+  background: url("../images/background1.jpg");
+}
+.bg1 h1,
+.bg1 h3 {
+  color: #00f;
+}
 ul {
   color: #000;
 }
