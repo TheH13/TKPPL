@@ -160,6 +160,13 @@ ul {
   -webkit-transform: translateY(330px) translateZ(-240px) rotateX(-90deg);
   transform: translateY(330px) translateZ(-240px) rotateX(-90deg);
 }
+.bespoke-progress-bar {
+  background-color: #0d0;
+  border-right: 10px solid #00f6ff;
+}
+.bespoke-progress-parent {
+  background-color: #007a0e;
+}
 .pd {
   position: absolute;
   padding-top: 50px;
