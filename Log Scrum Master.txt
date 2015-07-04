@@ -1,5 +1,6 @@
+Season 1
 Scrum Master 	: Achmad Dzaki (131113832)
-Durasi 		: 3Hari
+Durasi 		: 3Hari (Tgl 6 - 8 )
 
 Sprint:
 - Buat Slide depan
@@ -34,10 +35,12 @@ Hari - 3
   - Jay		: Membuat Slide Profil Jay dan tambah file jpg ke folder images
   - Zaki	: Buat Log scrum Master dan edit file jade
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Season 2
 
 Scrum Master 	: Sutris Hendrawan (131113093)
-Durasi		: 3 Hari
+Durasi		: 3 Hari ( 9 - 11 )
 
 Sprint :
 - Buat Slide " Mindset and Opportunities about Entrepreneur"
@@ -61,12 +64,13 @@ Hari - 2 (Hari - 5)
 - Zaki		: Tambah Slide Utama Kepribadian
 Hari - 3 (Hari - 6)
 - Zaki		: Tambah Slide Sanguinis dan Melankolis
-- Sutris		: Tambah Slide Self Accptance & Control
+- Sutris	: Tambah Slide Self Accptance & Control
 - Hermanto	: Tambah Slide Cara menerima diri
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 season 3
 Scrum Master 	: jay clarens (131113824)
-Durasi		: 3 Hari
+Durasi		: 3 Hari (12 - 14)
 
 sprint:
 - Buat slide " Kepribadian"
@@ -78,19 +82,27 @@ sprint:
 - Buat Slide " Self Acceptance & Control "
 
 Hari - 1 (Hari - 7)
-- Jay		: tambah slide intrapersonal dan naturalis
-- Sutris		: tambah slide acceptance & control 
+- Jay		: tambah slide intrapersonal dan naturalis dan edit log scrum.txt
+- Sutris	: tambah slide acceptance & control dan 5 dasar kecerdasan Emosi
+- zaki 		: Tambah Slide Koleris & Pleghmatis
+-hermanto	: Tambah Slide
 Hari - 2 (hari -8)
--
--
+-Jay		: Tambah Slide Kebribadian
+-Sutris		: Tambah Slide individu yang memiliki kontrol diri
+-zaki		: Tambah Link dan slide kepribadian
+-Hermanto	: Tambah Slide
 Hari - 3 (hari 9)
--
--
+-Jay 		: Tambah Slide kepribadian menurut Dr. William Multon
+-Sutris		: Tambah Slide individu tanpa kontrol diri dan perbaiki git log scrum master.txt
+-Zaki 		: Tambah Slide Pengertian DISC
+-Hermanto 	: Tambah Slide Winner Attitude
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Session 4
 
 Scrum Master 	: Hermanto (131110305)
-Durasi 		: 3 Hari
+Durasi 		: 3 Hari (15 - 17 )
 Sprint:
 - Buat Slide "Behavior yang mempengaruhi Kesuksesan"
 - Buat Slide "Behavior Minus yang menghancurkan Kesuksesan"
@@ -115,102 +127,11 @@ Hari - 3
 - Achmad Dzaki	: Tambah 2 slide karir Steadiness dan COmpliance
 - Jay		: Hapus Slide dari Section Kepribadian karena Bentrok
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Session 5
-Hari 1
-Scrum Master 	: Achmad Dzaki (131113832)
-Durasi 		: 3Hari
-
-Sprint:
-- Buat Slide depan
-- Buat Slide Profil Hermanto
-- Buat Slide Profil Sutris
-- Buat Slide Profil Jay
-- Buat Slide Profil Zaki
-- Buat Slide "Mengenal Diri"
-- Buat Slide "Watak"
-- Buat Slide "Tempramen"
-- Buat Slide "Cara Mengenal Diri"
-
-Hari - 1
-  - Hermanto	: Menambahkan note perintah git
-  - Zaki	: Perbaiki error file dist html
-  - Sutris	: Membuat Slide Profil Sutris
-  - Sutris	: Merge dengan summit zaki
-  - Hermanto	: Membuat Slide Profil Hermanto
-  - Zaki	: Membuat Slide Profil Zaki dan tambah file images di dist folder
-
-Hari - 2
-  - Zaki	: Membuat Slide Depan dan tambah gambar
-  - Zaki	: Hapus file img yang error
-  - Zaki	: Commit file yang selalu berubah
-  - Zaki	: Bug fix, Buat file baru di folder src dan memasukkan file png dan jpg
-  - Sutris	: Edit Slide Profil Sutris dan tambah file jpg ke folder images
-  - Hermanto	: Edit Slide Profil Hermanto dan Membuat Slide "Mengenal Diri" dan tambah file png ke folder images
-
-Hari - 3
-  - Zaki	: Bug fix, Mengganti effect slide dari kanan-kiri menjadi atas-bawah dan edit list slide "Mengenal Diri" (Edit Styles)
-  - Sutris	: Membuat Slide "Watak" dan Slide "Temprament"
-  - Jay		: Membuat Slide Profil Jay dan tambah file jpg ke folder images
-  - Zaki	: Buat Log scrum Master dan edit file jade
-
-Season 2
-
-Scrum Master 	: Sutris Hendrawan (131113093)
-Durasi		: 3 Hari
-
-Sprint :
-- Buat Slide " Mindset and Opportunities about Entrepreneur"
-- Buat Slide " Temperamen"
-- Buat Slide " Talent "
-- Buat Slide " Tabel DISC "
-- Buat Slide " Sanguin,Melankolis,Plegmatis,Koleris"
-- Buat Slide "Self Acceptance & Control"
-- Buat Slide "Kepribadian"
-
-Hari - 1 (Hari - 4)
-- Sutris		: Buat Slide " Mindset and Opportunities about Entrepreneur",fix Profil Sutris,ganti gambar dan tambah file png di folder image.
-- Jay		: Edit Slide 11 dan tambah slide ke 12 untuk penjelasan dari slide 11
-- Zaki		: Edit dan tambah slide
-- Zaki		: Merge
-- Hermanto	: Tambah Slide
-Hari - 2 (Hari - 5)
-- Sutris		: Menambah Slide Kepribadian Negatif
-- Jay		: Tambah Slide
-- Hermanto	: Tambah Slide Kepribadian Positif
-- Zaki		: Tambah Slide Utama Kepribadian
-Hari - 3 (Hari - 6)
-- Zaki		: Tambah Slide Sanguinis dan Melankolis
-- Sutris		: Tambah Slide Self Accptance & Control
-- Hermanto	: Tambah Slide Cara menerima diri
-
-season 3
-Scrum Master 	: jay clarens (131113824)
-Durasi		: 3 Hari
-
-sprint:
-- Buat slide " Kepribadian"
-- Buat Slide " Pengertian Dominan,influence,steadiness,dan compliance.
-- Buat Slide " Tokoh yang memiliki kepribadian tersebut." 
-- Buat Slide " Ciri Khas Tipe Dominan,Influence,Steadines,Compliance.
-- Buat Slide " cara menghadapi tipe dominan,influence,steadines,dan compliance."
-- Buat Slide " DISC dari segi Vokal-Verbal dan Visual "
-- Buat Slide " Self Acceptance & Control "
-
-Hari - 1 (Hari - 7)
-- Jay		: tambah slide intrapersonal dan naturalis
-- Sutris		: tambah slide acceptance & control 
-Hari - 2 (hari -8)
--
--
-Hari - 3 (hari 9)
--
--
-
-Session 4
-
 Scrum Master 	: Hermanto (131110305)
-Durasi 		: 3 Hari
+Durasi 		: 2 Hari (18 - 19 )
 Sprint:
 - Buat Slide "Behavior yang mempengaruhi Kesuksesan"
 - Buat Slide "Behavior Minus yang menghancurkan Kesuksesan"
@@ -224,21 +145,7 @@ Hari - 1
 - 
 
 Hari - 2
-- Sutris	: Buat Slide Manajemen Diri
-- Hermanto	: Editing slide #6 
-- Achmad Dzaki	: Tambah 2 slide karir Steadiness dan COmpliance
-- Jay		: Hapus Slide dari Section Kepribadian karena Bentrok
-
-Hari - 3
-- Sutris	: Pemadatan Slid
-- Hermanto	: Edi slide #14
-- Achmad Dzaki	: Merge dan hapus slide bawaan
-- Jay		: Edit slide Winner Attitude
-
-Session 5
-Hari 1
-- Hermanto	: dit slide #15 - #17
-- Jay		: Edit Langkah Mengel Talenta
-- Achmad Dzaki	: -
-- Sutris	: Edit Slide serta padatkan
-
+- Sutris	: Penghapusan / Pemadatan Slide
+- Hermanto	: Editing slide #14
+- Achmad Dzaki	: Merge / Hapusan Slide bawaan
+- Jay		: edit slide winner attitude

@@ -131,7 +131,7 @@ pre[class*="language-"] {
 }
 .bgprofiljay {
   background: url("../images/BG1.jpg");
-  bacground-size: 100%;
+  background-size: 100%;
   color: #fff;
 }
 .bgprofiljay h2,
@@ -190,6 +190,9 @@ th {
 td {
   width: 33%;
   height: 30px;
+}
+body {
+  background-color: #cbe4ec;
 }
 .bbb {
   background-color: #000;
